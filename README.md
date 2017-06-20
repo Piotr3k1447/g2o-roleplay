@@ -7,3 +7,4 @@ http://gothic-online.com.pl
 * /database/accounts/items/
 * /database/accounts/bank/
 ### To tyle. Teraz wystarczy uruchomić serwer. GM nie posiada żadnej licencji i można go wykorzystywać w dowolnym celu. Uczestnictwo w współtworzeniu mile widziane.
+penisy
